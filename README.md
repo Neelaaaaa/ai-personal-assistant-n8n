@@ -1,3 +1,5 @@
+![Workflow Screenshot](workflow-screenshot.png)
+
 # Personal AI Assistant (n8n Agent)
 
 A conversational AI agent built using **n8n**, an automation/workflow tool. The agent can answer general questions, search the web, do calculations, and remembers context from earlier in the conversation.
